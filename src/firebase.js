@@ -18,13 +18,13 @@ addDoc,
 } from "firebase/firestore";
 
 const firebaseConfig = {
-    apiKey: "AIzaSyCs7ttlmxoUZ2zLm6tKeffPIw8m1UveGuM",
-    authDomain: "careorgwebapp.firebaseapp.com",
-    projectId: "careorgwebapp",
-    storageBucket: "careorgwebapp.appspot.com",
-    messagingSenderId: "584389440877",
-    appId: "1:584389440877:web:c7f5563112555cbc701664",
-    measurementId: "G-56MSPL1QEE"
+    apiKey: "",
+    authDomain: "",
+    projectId: "",
+    storageBucket: "",
+    messagingSenderId: "",
+    appId: "",
+    measurementId: ""
 };
 
 const app = initializeApp(firebaseConfig);
